@@ -1,0 +1,19 @@
+body {
+	background-image: url('images/back.png');
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+	background-position:center;
+	background-size: 100%;
+	color: #FFFFFF;
+	font-family: 'PT Sans', sans-serif;
+}
+.fig {
+	text-align: center;
+}
+.text {
+	text-align: justify;
+	margin:30px;
+	padding: 30px;
+	background-color: rgba(0, 0, 0, 0.3);
+	border: medium solid;
+}
