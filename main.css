@@ -106,8 +106,10 @@ caption {
     margin:50px;
     overflow:hidden;
     position: relative;
-    left:5%;
-    width:1440px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
 }
 .slides ul {
     list-style:none;
